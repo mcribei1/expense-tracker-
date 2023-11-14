@@ -34,7 +34,7 @@ tracker.view.expenses_by_category(category_to_view)
 
 Contributions 
 
-Two individuals from Kennesaw, GA each wihth unique backgrounds in finance and management. Pursuring informations systems degree that collboratively developing a responsively design a expenses track application.  
+Two individuals from Kennesaw, GA each with unique backgrounds in finance and management. Pursuing informations systems degree that collboratively developing a responsively design a expenses track application.  
     Memeber names:
       -Aziz Bezgunov
       -Janet Juarez Aguilar 
