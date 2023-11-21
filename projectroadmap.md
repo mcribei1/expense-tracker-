@@ -1,7 +1,8 @@
 -Find someone to work on the project with 
 -plan out with project idea we will be using 
--find a reating article or video 
+-find a realating article or video 
 -roughdraft a Read.me
+-proofread Read.me
 -clone files 
 -try coding our project 
 -analyze code in Visual studio 
@@ -10,3 +11,4 @@
 -workout the kinks 
 -discuss the progress with group memeber 
 -create a presentation 
+-record the presentation 
