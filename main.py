@@ -65,7 +65,7 @@ elif(optionSelected == "2"):
 elif(optionSelected == "3"):
  listExpenses()
 else:
- print("Invalid input. Please try again.")
+ print("Invalid input. Please try again.") 
   
 
 
