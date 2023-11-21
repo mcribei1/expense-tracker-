@@ -3,6 +3,10 @@
 ## overview
 "Welcome to our expense tracker project!" This tool is designed to help users manage their finances accodingly to everyones individual goals. It enables you to categorize, record and track expenses effortlessly. It will provide insight into your spending habits and help assist with your financial goals. Get started, get organized, and take control of your expenses. 
 
+## Installation 
+-Github desktop 
+-Visual studios
+
 ## Usage 
   -Visual Studio Code 2 
   -User Friendly 
@@ -16,6 +20,7 @@
   **Add Expense:** you can add expenses by specifying the category and the amount.
   ** view Total Expenses:** check the total expense incurred.
   **view Expenses by Category:** see the expenses for a specific category.
+  
 ## Example 
 https://www.youtube.com/watch?v=-adT3bRWchI
 # Example usage 
