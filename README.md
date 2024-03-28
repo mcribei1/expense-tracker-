@@ -1,48 +1,12 @@
-# expense-tracker
-
-## overview
-"Welcome to our expense tracker project!" This tool is designed to help users manage their finances accodingly to everyones individual goals. It enables you to categorize, record and track expenses effortlessly. It will provide insight into your spending habits and help assist with your financial goals. Get started, get organized, and take control of your expenses. 
-## Installation 
--Github desktop 
--Visual Studio 
-## Usage 
-  -Visual Studio Code 2 
-  -User Friendly 
-  -Shows detail view of your expenses 
-  -Shows you how you can cut back
-  -You can update and delete your expenses 
-  -You can insert new expenses 
-  -uses database 
-  
-## Features 
-  **Add Expense:** you can add expenses by specifying the category and the amount.
-  ** view Total Expenses:** check the total expense incurred.
-  **view Expenses by Category:** see the expenses for a specific category.
-## Example 
-https://www.youtube.com/watch?v=-adT3bRWchI
-# Example usage 
-tracker = ExpenseTracker()
-
-tracker.add.expense('food',50.75)
-tracker.add.expense("transportation",30.50)
-tracker.add.expense('food", 20.25) # additional expense in the "food" category 
-
-print('Total Expenses: $",tracker.total. expenses())
-print('\nAll Expenses:)
-tracker.view_expenses()
-categoru_to_view + "food"
-print(f"\nViewing expenses for (catefory_to_view:")
-tracker.view.expenses_by_category(category_to_view)
-
-#Contributions 
-
-Two individuals from Kennesaw, GA each wihth unique backgrounds in finance and management. Pursuring informations systems degree that collboratively developing a responsively design a expenses track application.  
-    Memeber names:
-      -Aziz Bezgunov
-      -Janet Juarez Aguilar 
-
-#Task List 
-Aziz and Janet will both be responsible for making small updates and adding commit messages in our respsitory. 
-
-#Objective
-This project provides the fundamental framework for gathering an overview of a user's daily expenses. Even while it might not have all the features of a professional cost monitoring program, it nonetheless aids users in starting the process of developing a better understanding of their everyday spending habits.
+1. The Project Overview
+>The expense-tracking software I'm planning to build is called Budget Boss. It can help with savings by assisting users in tracking their spending, setting savings goals, monitoring their progress, and identifying areas where they can cut expenses. I'm using two tutorials to combine codes, maximize the output, and utilize everything we learned during the semester.
+2. Benefit
+>The great benefit is that it is easy to use; there are no more overwhelming spreadsheets or manual calculations; we only need to log our spending. One of the best things about a Budget Boss is that it automatically categorizes expenses and provides real-time updates on your spending habits. This feature alone can help you identify areas where you may be overspending and adjust accordingly.Budgeting apps can provide insights into spending patterns and offer personalized recommendations to help users save more money.
+3. Installed and Used Programs
+>Github-desktop, Python 
+4. Sources
+>https://www.youtube.com/watch?v=4TZ1K8EHT2M
+https://www.youtube.com/watch?v=HTD86h69PtE
+5. Predicted Outcome
+> easy user interface 
+> organized, motivated, expense tracking and money saving 
