@@ -29,7 +29,7 @@ def get_user_expense():
         for i, category_name in enumerate(expense_categories):
             print(f" {i+1}. {category_name}")
             
-        value_rangen= f"[1 - {len(expense_categories)}]"
+        value_range= f"[1 - {len(expense_categories)}]"
         selected_index = int(input(f"Enter a category number {value_range} ")) - 1
         
         if selected_index in range(len(expense_categories)):
