@@ -3,8 +3,8 @@
 - [x] Create persuasive describtion of the project
 - [x] Create a READ.me file
 - [x] Create a Projectroadmap.md
-- [ ] Review and upload coding from resources
-- [ ] Write and analyze the code in visual studio
+- [x] Review and upload coding from resources
+- [x] Write and analyze the code in visual studio
 - [ ] Address every issue and problem - seek help if need it
 - [ ] Make notes of successful changes for future reference
 - [ ] Create PowerPoint presentation of the project outcome 
