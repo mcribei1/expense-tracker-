@@ -51,7 +51,7 @@ def get_user_expense():
 def save_expense_to_file(expense: Expense, expense_file_path):
     print(f"🎯 Saving User Expense: {expense} to {expense_file_path}")
     with open(expense_file_path, "a", encoding="utf-8") as f:
-        f.write(f"{expense.name},{expense.amount},{expense.category}\n")
+        f.write(f"{expense.name},{expense.amount},{expense.category}, encoding="utf-8"\n")
 
 
 def summarize_expenses(expense_file_path, budget):
