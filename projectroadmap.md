@@ -8,4 +8,4 @@
 - [x] Create cvs.file make sure added expenses are saved and visible on the cvs.file
 - [x] Address every issue and problem - seek help if need it
 - [ ] Make notes of successful changes for future reference
-- [ ] Create PowerPoint presentation of the project outcome 
+- [x] Create PowerPoint presentation of the project outcome 
