@@ -7,5 +7,5 @@
 - [x] Write and analyze the code in visual studio
 - [x] Create cvs.file make sure added expenses are saved and visible on the cvs.file
 - [x] Address every issue and problem - seek help if need it
-- [ ] Make notes of successful changes for future reference
+- [x] Make notes of successful changes for future reference
 - [x] Create PowerPoint presentation of the project outcome 
