@@ -1,14 +1,11 @@
--Find someone to work on the project with 
--plan out with project idea we will be using 
--find a reating article or video 
--roughdraft a Read.me
--proofread Read.me
--clone files 
--try coding our project 
--analyze code in Visual studio 
--assign each memeber a task 
--test the code to see if running smoothly 
--workout the kinks 
--discuss the progress with group memeber 
--create a presentation 
--record presentation 
+- [x] Find a project that is interesting and usable
+- [x] Find sources that will help to execute this project
+- [x] Create persuasive describtion of the project
+- [x] Create a READ.me file
+- [x] Create a Projectroadmap.md
+- [x] Review and upload coding from resources
+- [x] Write and analyze the code in visual studio
+- [x] Create cvs.file make sure added expenses are saved and visible on the cvs.file
+- [x] Address every issue and problem - seek help if need it
+- [] Make notes of successful changes for future reference
+- [] Create PowerPoint presentation of the project outcome 
