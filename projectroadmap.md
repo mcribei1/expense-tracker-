@@ -6,6 +6,6 @@
 - [x] Review and upload coding from resources
 - [x] Write and analyze the code in visual studio
 - [x] Create cvs.file make sure added expenses are saved and visible on the cvs.file
-- [ ] Address every issue and problem - seek help if need it
+- [x] Address every issue and problem - seek help if need it
 - [ ] Make notes of successful changes for future reference
 - [ ] Create PowerPoint presentation of the project outcome 
